@@ -1,6 +1,8 @@
 # lottery
 
-> A Vue.js project
+> 抽奖程序
+
+### 请登录easy-mock修改人员名单
 
 ## Build Setup
 
